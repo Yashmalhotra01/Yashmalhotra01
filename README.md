@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yashmalhotra01
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on websites
+- 👀 I’m interested in data analysis 
+- 🌱 I’m currently learning data algorithms and statistical modeling 
+- 💞️ I’m looking to collaborate on big data analysis 
 - 📫 How to reach me yashmalhotra23079@gmail.com 
 <!---
 Yashmalhotra01/Yashmalhotra01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
